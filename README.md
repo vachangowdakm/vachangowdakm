@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm a student <br>i'm become a developer
+i'm a student <br>studing CSE (dev ops) in presidency univesity begaluru <br> i'm become a developer
 
 
 ## 🌐 Socials:
